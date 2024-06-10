@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FaceSharp": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\abbos\\Pictures\\SimplePhoto (2).jpg\" \"D:\\Users\\abbosbek\\Documents\\faces\\faces\""
+    }
+  }
+}
